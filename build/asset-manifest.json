@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40d78683.chunk.css",
+    "main.js": "/static/js/main.31701f7c.chunk.js",
+    "main.js.map": "/static/js/main.31701f7c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5a1d5d0f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5a1d5d0f.js.map",
+    "static/js/2.10f6d4e6.chunk.js": "/static/js/2.10f6d4e6.chunk.js",
+    "static/js/2.10f6d4e6.chunk.js.map": "/static/js/2.10f6d4e6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8d95e7c496e67cae73c0d3ba4d53a97c.js": "/precache-manifest.8d95e7c496e67cae73c0d3ba4d53a97c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.40d78683.chunk.css.map": "/static/css/main.40d78683.chunk.css.map",
+    "static/js/2.10f6d4e6.chunk.js.LICENSE.txt": "/static/js/2.10f6d4e6.chunk.js.LICENSE.txt",
+    "static/media/MobacoTshirt.jpg": "/static/media/MobacoTshirt.3ca07785.jpg",
+    "static/media/TerranovaTshirt.jpg": "/static/media/TerranovaTshirt.4ba0002d.jpg",
+    "static/media/TerranovaTshirt2.jpg": "/static/media/TerranovaTshirt2.39165b85.jpg",
+    "static/media/App.css": "/static/media/cover.8b7d2a3f.jpg",
+    "static/media/greenTshirt.jpg": "/static/media/greenTshirt.4a682e1d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a1d5d0f.js",
+    "static/js/2.10f6d4e6.chunk.js",
+    "static/css/main.40d78683.chunk.css",
+    "static/js/main.31701f7c.chunk.js"
+  ]
+}
